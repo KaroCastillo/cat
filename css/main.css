@@ -1,0 +1,27 @@
+.header{
+    background: white;
+    width: 100%;
+    height: auto;
+    text-align: center;
+    border-bottom: solid 1px #D6D7DC;
+    color: #000;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.cat
+{
+   font-family: 'Proza Libre', sans-serif;
+   color: #534E68;
+    padding-top: 30px;
+     font-size: 22px;
+    text-align: center;
+} 
+.honor {
+	font-family: 'Proza Libre', sans-serif;
+    color: #8258B6;
+    font-size: 18px;
+    font-weight: bold;
+    padding-top: 20px;
+    text-align:center;
+    } 
+    
